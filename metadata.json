@@ -1,0 +1,6 @@
+{
+  "name": "NovaDigital Marketplace",
+  "description": "Place de marché d'actifs numériques premium : templates Next.js, UI kits Figma, masterclasses, boilerplates et guides d'ingénierie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
